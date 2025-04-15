@@ -12,7 +12,7 @@ Direct Deploy via click these button
 
 ## Deploy to Heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://www.github.com/nikhilsainiop/saini-txt-direct)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/nikhilsainiop/Saini-txt-direct-1)
 
 [![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/nikhilsainiop/saini-txt-direct)
 
